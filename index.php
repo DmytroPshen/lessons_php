@@ -26,3 +26,31 @@
     echo $isMarried1 . "<br>";
     echo $pet1 . "<br>";
     echo $petName1 . "<br><br>";
+
+    $name2 = 'Den';
+    $age2 = 26;
+    $hobby2 = 'arm';
+    $isMarried2 = true;
+    $pet2 = 'rabbit';
+    $petName2 = 'Bax';
+
+    echo $name2. "<br>";
+    echo $age2. "<br>";
+    echo $hobby2. "<br>";
+    echo $isMarried2. "<br>";
+    echo $pet2. "<br>";
+    echo $petName2. "<br><br>";
+
+    $name3 = 'Igor';
+    $age3 = 37;
+    $hobby3 = 'tracking';
+    $isMarried3 = false;
+    $pet3 = 'turtle';
+    $petName3 = 'Mike';
+
+    echo $name3. "<br>";
+    echo $age3. "<br>";
+    echo $hobby3. "<br>";
+    echo $isMarried3. "<br>";
+    echo $pet3. "<br>";
+    echo $petName3. "<br><br>";
